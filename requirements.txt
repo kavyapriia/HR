@@ -1,3 +1,2 @@
-strreamlit
-pandas
-csv
+streamlit==0.87.0
+pandas==1.3.3
